@@ -1,15 +1,14 @@
 ---
 name: API Academy
 x-slug: api-academy
-description: Your Guide to API Design &amp; Implementation Best Practices. API Academy
-  delivers online lessons and in-person consulting services covering essential API
-  techniques and tools for business managers, interface designers and enterprise architects.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-academy-logo.png
+description: Intensive Mentoring & Training for API Publishers & Architects APIs are
+  at the heart of effective mobile, cloud and developer engagement strategies.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10228-api-academy.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "1192655"
 tags: API Academy
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/api-academy/master/_listings/api-academy/apis.md
 specificationVersion: "0.14"
 apis: []
